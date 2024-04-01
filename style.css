@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:sans-serif;
+    box-sizing: border-box;
+}
+
+/* Navbar started */
+
+nav{
+    background-color: #19b9ff;
+    height: 70px;
+}
+
+input{
+    border-radius: 5px ;
+    width: 25rem;
+    padding: 12px;
+
+
+}
+
+ .fa-bars{
+    font-size: 22px;
+   
+}
+
+.button{
+    border:1px solid #ffffff;
+    
+}
+
+.buttons-group .btn-login{
+    padding-right: 15px;
+}
+
+
+
+
+
+/* Navbar started */
