@@ -12,6 +12,10 @@ nav{
     height: 70px;
 }
 
+.bg-body{
+    background-color: #f0f3f6;
+}
+
 input{
     border-radius: 5px ;
     width: 25rem;
