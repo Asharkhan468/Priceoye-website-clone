@@ -53,6 +53,17 @@ input{
     font-size: 12px;
 }
 
+.card img{
+    width: 120px;
+    margin: 0 auto;
+}
+.card{
+    background-color: #ffffff;
+}
+
+.bg-pink{
+    background-color: #f83e87;
+}
 @media(max-width:768px){
     .buttons-group button{
         display: none;
