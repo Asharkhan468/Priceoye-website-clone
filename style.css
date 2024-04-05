@@ -43,3 +43,25 @@ input{
 
 
 /* Navbar started */
+
+
+.items img{
+    width: 50px;
+}
+
+.items p{
+    font-size: 12px;
+}
+
+@media(max-width:768px){
+    .buttons-group button{
+        display: none;
+    }
+    input{
+        border-radius: 5px ;
+        width: 18rem;
+        padding: 10px;
+    
+    
+    }
+}
