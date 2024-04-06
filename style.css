@@ -97,6 +97,23 @@ input{
     width: 100px;
 }
 
+.reviews img{
+
+    aspect-ratio: 3/2;
+    object-fit: cover;
+    width: 100px;
+    border-radius: 10px;
+    
+}
+.video-review video{
+    width: 200px;
+    border-radius: 10px;
+    
+}
+.mt-6{
+    margin-top: 100px;
+}
+
 
 
 
@@ -113,5 +130,8 @@ input{
         padding: 10px;
     
     
+    }
+    .brands{
+        text-align: center;
     }
 }
