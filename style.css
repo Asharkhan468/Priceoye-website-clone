@@ -75,12 +75,26 @@ input{
 }
 
 .shop-by-price-btn button{
-    padding: 10px;
-    border-radius: 12px;
-    width: 20rem;
+    padding: 15px;
+    border-radius: 15px;
+    width: 16rem;
     border: 1px solid #fff348;
     background-color: #fff348;
-    gap:10px;
+
+}
+
+
+.shop-by-price-btn  :hover{
+    background-color: #48afff;
+    border-radius: 15px;
+    border: 1px solid #48afff;
+   
+    
+}
+
+.brands img{
+    padding: 10px;
+    width: 100px;
 }
 
 
