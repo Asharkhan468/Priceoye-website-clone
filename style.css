@@ -12,8 +12,8 @@ nav{
     height: 70px;
 }
 
-.bg-body{
-    background-color: #f0f3f6;
+body #bg-body{
+    background-color:lawngreen;
 }
 
 input{
@@ -64,6 +64,31 @@ input{
 .bg-pink{
     background-color: #f83e87;
 }
+
+.card-btn{
+    padding: 5px;
+    color: #198754;
+    border: 1px solid white;
+    border-radius: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.shop-by-price-btn button{
+    padding: 10px;
+    border-radius: 12px;
+    width: 20rem;
+    border: 1px solid #fff348;
+    background-color: #fff348;
+    gap:10px;
+}
+
+
+
+
+
+
+
 @media(max-width:768px){
     .buttons-group button{
         display: none;
