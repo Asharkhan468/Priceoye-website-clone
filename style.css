@@ -157,7 +157,24 @@ footer ul li a{
     color: #ffffff;
 }
 
+.playstore-btn img{
 
+    width: 150px;
+}
+
+.footer-blue{
+    background-color: #18b8fe;
+}
+
+.fa-brands{
+    color: #ffffff;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.text-purple{
+    color:darkblue;
+}
 
 
 
@@ -176,4 +193,5 @@ footer ul li a{
     .brands{
         text-align: center;
     }
+   
 }
