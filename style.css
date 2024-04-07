@@ -149,8 +149,8 @@ footer ul li a {
 
 .fa-brands {
   color: #ffffff;
-  font-size: 20px;
-  padding: 5px;
+  font-size: 22px;
+  padding: 8px;
 }
 
 .text-purple {
@@ -182,10 +182,15 @@ footer ul li a {
     font-size: 15px;
   }
   .features img{
-    width: 30px;
+    width: 40px;
   }
   .features h1{
-    font-size: 10px;
+    font-size: 12px;
+  
+  }
+  .features p{
+    font-size: 12px;
+  
   }
   
   .font-small{
