@@ -185,13 +185,18 @@ footer ul li a{
     }
     input{
         border-radius: 5px ;
-        width: 18rem;
-        padding: 10px;
+        width: 15rem;
+        padding: 6px;
+        margin-top: 2px;
+        
     
     
     }
     .brands{
         text-align: center;
+    }
+    .fa-bars{
+        margin-left: 10px;
     }
    
 }
