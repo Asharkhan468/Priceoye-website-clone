@@ -149,7 +149,7 @@ footer ul li a {
 
 .fa-brands {
   color: #ffffff;
-  font-size: 22px;
+  font-size: 20px;
   padding: 5px;
 }
 
@@ -189,10 +189,15 @@ footer ul li a {
   }
   
   .font-small{
-    font-size: 18px;
+    font-size: 11px;
 
 
   }
+  .fa-brands {
+  color: #ffffff;
+  font-size: 18px;
+  padding: 5px;
+}
 
 
 
