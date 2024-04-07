@@ -159,6 +159,13 @@ footer ul li a {
 .logo{
     width:120px;
 }
+.fa-star{
+  color:#ffbe00;
+  margin-bottom: 10px;
+}
+.reviews .user .stars {
+  padding: 8px;
+}
 
 @media (max-width: 768px) {
   .buttons-group button {
