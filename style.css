@@ -241,7 +241,9 @@ footer ul li a {
 .reason-box button{
   width: 110px;
 }
-
+.review-text{
+  font-size: 13px;
+}
 
 
 }
