@@ -69,14 +69,14 @@ input {
   padding: 15px;
   border-radius: 15px;
   width: 16rem;
-  border: 1px solid #fff348;
+  border: 1px solid transparent;
   background-color: #fff348;
 }
 
 .shop-by-price-btn :hover {
   background-color: #48afff;
   border-radius: 15px;
-  border: 1px solid #48afff;
+  /* border: 1px solid transparent; */
 }
 
 .brands img {
@@ -243,6 +243,12 @@ footer ul li a {
 }
 .review-text{
   font-size: 13px;
+}
+.display-none{
+  display: none;
+}
+.items p {
+  font-size: 9px;
 }
 
 
