@@ -238,6 +238,9 @@ footer ul li a {
 .reason-box h3{
   font-size:22px;
 }
+.reason-box button{
+  width: 110px;
+}
 
 
 
