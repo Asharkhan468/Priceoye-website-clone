@@ -76,7 +76,6 @@ input {
 .shop-by-price-btn :hover {
   background-color: #48afff;
   border-radius: 15px;
-  /* border: 1px solid transparent; */
 }
 
 .brands img {
@@ -200,6 +199,12 @@ footer ul li a {
 }
 .mobile img {
   width: 330px;
+}
+.card-item:hover{
+    transform: scale(1.1);
+   transition: 0.05mms;
+   box-shadow: 10px 10px #dcdcdc;
+  
 }
 @media (max-width: 768px) {
   .buttons-group button {
