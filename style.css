@@ -97,15 +97,12 @@ input {
 .mt-6 {
   margin-top: 100px;
 }
-.reason-box {
-  padding: 10px;
-  width: 35rem;
+.reason-box{
   background-color: #007ad5;
-  border-radius: 10px;
-  gap: 10px;
-  margin-right: 12px;
 }
-
+.reason-box img{
+  width: 200px;
+}
 .btn-orange {
   background-color: #ff9e2a;
   color: #ffffff;
@@ -198,7 +195,12 @@ footer ul li a {
 .Testinomial-main{
   padding-bottom: 50px;
 }
-
+.Testinomial-card{
+  padding: 10px
+}
+.mobile img {
+  width: 330px;
+}
 @media (max-width: 768px) {
   .buttons-group button {
     display: none;
@@ -230,6 +232,12 @@ footer ul li a {
   font-size: 18px;
   padding: 5px;
   }
+  .reason-box img{
+  width: 120px;
+}
+.reason-box h3{
+  font-size:22px;
+}
 
 
 
